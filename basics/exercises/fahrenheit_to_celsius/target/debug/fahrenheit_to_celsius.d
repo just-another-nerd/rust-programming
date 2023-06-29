@@ -1,0 +1,1 @@
+/home/humanphobia/Documentos/github/rust-programming/basics/exercises/fahrenheit_to_celsius/target/debug/fahrenheit_to_celsius: /home/humanphobia/Documentos/github/rust-programming/basics/exercises/fahrenheit_to_celsius/src/main.rs
